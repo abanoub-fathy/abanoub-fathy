@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo11079
-Fork on GitHub2795
 <h1 align="center">Hi 👋, I'm Abanoub Fathy</h1>
 <h3 align="center">A passionate web developer</h3>
 
