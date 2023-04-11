@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abanoub Fathy</h1>
 <h3 align="center">A passionate web developer</h3>
 
-- 📫 How to reach me **abanoub.fathy.me@gmail.com**
+<h4>📫 How to reach me</h4>
+
+- 💼 Find me on <a href="https://www.linkedin.com/in/abanoub-fathy" target="_blank">Linkedin</a> 
+- 📧 Send Me an <a href="mailto:abanoub.fathy.me@gmail.com" target="_blank">E-mail</a>
+- 📱 Let's talk on <a href="https://api.whatsapp.com/send?phone=201208026399" target="_blank">WhatsApp</a>
 
 <p align="left">
 </p>
