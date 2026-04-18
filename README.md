@@ -20,9 +20,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding" height="180px; width: auto" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmhlcndqdnh1ZjNlZHh5dHR1NnUwODB0cDZnazI2Zm14NWYwMXkzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1DRuHHBaM1bwkUHOaW/giphy.gif"/>
 
-<div style="height: 150px; display: flex; align-items: center; justify-content: center;">
   
 ```javascript
 const abanoub = {
@@ -34,10 +32,8 @@ const abanoub = {
 };
 ```
   
-</div>
 
 
-<br clear="right"/>
 
 ---
 
