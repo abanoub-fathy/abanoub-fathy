@@ -97,7 +97,7 @@ const abanoub = {
 
 <div align="center">
 
-[![trophy](https://trophy.ryglcloud.net/?username=abanoub-fathy&theme=light&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophy.ryglcloud.net/?username=abanoub-fathy&theme=onedark&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
